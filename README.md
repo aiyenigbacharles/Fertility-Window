@@ -6,7 +6,6 @@ This repository contains resources, notebooks, and code for predicting and analy
 
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Repository Structure](#repository-structure)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Model Details](#model-details)
